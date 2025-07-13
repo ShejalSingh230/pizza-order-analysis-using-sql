@@ -83,5 +83,5 @@ This project involves analyzing a pizza restaurant's order data using SQL. It sh
 
 **Shejal Singh**  
 📍 Pune, Maharashtra  
-📧 [@gmail.com](mailto:@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/) • [GitHub](https://github.com/)
+📧 [singhshejal899@gmail.com](mailto:singhshejal899@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shejal-singh ) • [GitHub](https://bit.ly/Shejal-Singh)
